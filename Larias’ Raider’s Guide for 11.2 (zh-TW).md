@@ -1,8 +1,6 @@
-# 魔獸世界地心之戰 11.2 懶人包 by Larias (翻譯版)
+# 魔獸世界地心之戰 11.2 指南 by Larias (翻譯版)         
 
-​              kcwAugust 09, 2025            
-
-（注：本篇為AI翻譯，有問題請參考[***原文\***](https://docs.google.com/document/d/1WwbpkS28CeZ7_lqqWLdumjZV7_kwJeGEUQ2O4dWenOc/preview?tab=t.0)***，紫色部分也請參閱原文 ）\***
+（注：本篇為AI翻譯，有問題請參考[原文](https://docs.google.com/document/d/1WwbpkS28CeZ7_lqqWLdumjZV7_kwJeGEUQ2O4dWenOc/preview?tab=t.0)，紫色部分也請參閱原文 )
 
 **更新時間**：8 月 7 日 6:00 PM – [變更紀錄點此查看]
 
@@ -12,7 +10,7 @@
 
 **特別鳴謝**：感謝 Kalamazi 分享本攻略！由於流量太高導致崩潰，請改用此連結瀏覽。
 
-> 我為每個建議的每週項目製作了一份[**基本檢查清單**](https://docs.google.com/spreadsheets/d/1hNFgRq7t8qzTNMK-GnELX8YL6DITz0Vn2Hrc11CGan4/edit?usp=sharing)**（已翻譯）**。
+> 我為每個建議的每週項目製作了一份[**基本檢查清單**](https://docs.google.com/spreadsheets/d/1hNFgRq7t8qzTNMK-GnELX8YL6DITz0Vn2Hrc11CGan4/edit?usp=sharing)**（翻譯版）**。
 
 如果想請我喝杯咖啡，可以[點此贊助](https://buymeacoffee.com/larias)。感謝多年以來的支持！
 
@@ -313,5 +311,6 @@
 
 
 ​              
+
 
 ​                        
